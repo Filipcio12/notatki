@@ -121,7 +121,7 @@ f_m(\mathbf{x}) = -\frac{\sum_i g_i}{\sum_i h_i + \lambda}
 $$
 
 $$
-y^{{m+1}}_i = y^{(m)}_i + \eta f_m(\mathbf{x}_i)
+y^{(m+1)}_i = y^{(m)}_i + \eta f_m(\mathbf{x}_i)
 $$
 
 Predykcja:
